@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.rmd": "markdown",
+        "initializer_list": "cpp",
+        "array": "cpp",
+        "typeinfo": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
